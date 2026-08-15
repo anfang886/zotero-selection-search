@@ -1,0 +1,17 @@
+{
+	"addons": {
+		"selection-search@anfang886": {
+			"updates": [
+				{
+					"version": "0.1.1",
+					"update_link": "https://github.com/anfang886/zotero-selection-search/releases/download/v0.1.1/zotero-selection-search-0.1.1.xpi",
+					"applications": {
+						"zotero": {
+							"strict_min_version": "7.0"
+						}
+					}
+				}
+			]
+		}
+	}
+}

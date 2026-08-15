@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "Selection Search",
+	"version": "0.1.1",
+	"description": "Select text in the item pane, right-click, and search your whole library for it.",
+	"author": "anfang886",
+	"homepage_url": "https://github.com/anfang886/zotero-selection-search",
+	"applications": {
+		"zotero": {
+			"id": "selection-search@anfang886",
+			"update_url": "https://raw.githubusercontent.com/anfang886/zotero-selection-search/main/updates.json",
+			"strict_min_version": "7.0",
+			"strict_max_version": "9.*"
+		}
+	}
+}
