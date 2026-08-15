@@ -1,5 +1,5 @@
 # Selection Search for Zotero
-
+![[zotero-selection-search.png]]
 Select text in the item pane, right-click, and search your whole library for it.
 
 **English** · [中文](#中文說明) · [日本語](#日本語)
@@ -10,7 +10,7 @@ Without this plugin, looking up a phrase you can see in an item's metadata takes
 four steps: copy the text, click **My Library**, click the quick search box,
 paste, press Enter. This plugin collapses that into one.
 
-![The Search entry in the context menu](docs/images/menu.jpg)
+![The Search entry in the context menu](images/menu.jpg)
 
 ## Usage
 
@@ -22,7 +22,7 @@ paste, press Enter. This plugin collapses that into one.
 
 Zotero jumps to My Library and runs the search immediately.
 
-![The search running](docs/images/result.jpg)
+![The search running](images/result.jpg)
 
 The entry only appears when text is actually selected. It uses Zotero's default
 quick search mode (*Title, Creator, Year*) rather than full-text, so the results
@@ -34,7 +34,7 @@ In **Bibliography Entry** mode the item pane header is read-only and text cannot
 be selected at all, so no search entry appears. Switch to **Title** or
 **Title, Creator, Year** to use this plugin.
 
-![Switching the header mode](docs/images/header-mode.jpg)
+![Switching the header mode](images/header-mode.jpg)
 
 ## Installation
 
