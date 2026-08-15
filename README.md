@@ -1,5 +1,5 @@
 # Selection Search for Zotero
-![[zotero-selection-search.png]]
+![[zotero-selection-search.png]](images/zotero-selection-search.png)
 Select text in the item pane, right-click, and search your whole library for it.
 
 **English** · [中文](#中文說明) · [日本語](#日本語)
