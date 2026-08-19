@@ -5,6 +5,7 @@ Select text in the item pane, right-click, and search your whole library for it.
 **English** · [中文](#中文說明) · [日本語](#日本語)
 
 ---
+<A tool for the lazy> As long as you can select text, right-click to instantly search your entire library.
 
 Without this plugin, looking up a phrase you can see in an item's metadata takes
 four steps: copy the text, click **My Library**, click the quick search box,
